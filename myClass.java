@@ -7,7 +7,6 @@ public class myClass
         System.out.println("Welcome to the Number Guessing Game!");
         System.out.println("Try to guess the number I'm thinking of between 1 and 100.");
         System.out.println("You have 10 attempts to guess the correct number.");
-        System.out.println("Good luck!");
         player.startGame();
     }
 }
